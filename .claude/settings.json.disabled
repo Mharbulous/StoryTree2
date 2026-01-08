@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:\\Users\\Brahm\\Git\\StoryTree\\.claude\\hooks\\check_cross_agent.py"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:\\Users\\Brahm\\Git\\StoryTree\\.claude\\hooks\\check_cross_agent.py"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+../../distributables/scripts/prioritize_stories.py

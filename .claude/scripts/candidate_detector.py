@@ -1,0 +1,1 @@
+../../distributables/scripts/candidate_detector.py

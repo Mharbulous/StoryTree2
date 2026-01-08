@@ -1,0 +1,1 @@
+../../distributables/scripts/migrations/migrate_normalize_stage_hierarchy.py

@@ -1,0 +1,1 @@
+../../distributables/scripts/migrations/verify_root.py

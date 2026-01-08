@@ -1,0 +1,1 @@
+../../distributables/scripts/insert_story.py
